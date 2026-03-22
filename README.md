@@ -1,4 +1,4 @@
-#  Hola, soy Wally Chingg 
+#  Hola, soy Wall.e Chingg Uparela 
 ![Portada de Wally Chingg](portadagit.jpg)
 
 👀 Interesado en Python, CSS, HTML, JAVA, Power Apps, DataAnalitycs y Machine Learning  
