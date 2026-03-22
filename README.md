@@ -1,5 +1,5 @@
 #  Hola, soy Wall.e Chingg Uparela 
-![Portada de Walle-Chingg-Uparela](Wall.e_Chingg_(Presentación).jpg)
+![Portada de Walle-Chingg-Uparela](banner-github.jpg)
 
 👀 Interesado en Python, CSS, HTML, JAVA, Power Apps, DataAnalitycs y Machine Learning  
 Estoy buscando crear y dejar herramientas de utilidad, luchando por un mañana mejor 
