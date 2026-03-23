@@ -1,4 +1,4 @@
-#  Hola, soy Wall.e Chingg Uparela 
+#  Hola, soy Walter Chingg Uparela (Wall.e)
 ![Portada de Walle-Chingg-Uparela](banner-github.jpg)
 
 👀 Interesado en Python, Data Analitycs y Machine Learning  
