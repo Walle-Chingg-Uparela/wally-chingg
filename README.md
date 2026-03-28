@@ -9,10 +9,26 @@ Ingeniero Mecatrónico enfocado en Data Analytics y Machine Learning.
 ## Un poco de lo que hago dentro de la maestria 
 [![Maestria](miadportafolio.jpg)](https://github.com/Walle-Chingg-Uparela/MIAD)
 
-## Lenguajes y herramientas
+## Lenguajes 
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width = "40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width = "40" />
+          
+</p>
+
+## Herramientas
+<p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width = "40" />
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"   width = "40" />
+          
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width = "40" />
+                 
+          
 </p>
 
             
