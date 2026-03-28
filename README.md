@@ -12,8 +12,7 @@ Ingeniero Mecatrónico enfocado en Data Analytics y Machine Learning.
 ## Lenguajes y herramientas
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width = "40" />
 </p>
 
             
