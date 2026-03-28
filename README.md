@@ -8,3 +8,10 @@ Ingeniero Mecatrónico enfocado en Data Analytics y Machine Learning.
 
 ## Un poco de lo que hago dentro de la maestria 
 [![Maestria](miadportafolio.jpg)](https://github.com/Walle-Chingg-Uparela/MIAD)
+
+## Lenguajes y herramientas
+
+<p>
+ <a href="https://github.com/search?q=user%3Aishandutta2007+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+
+</p>
