@@ -22,7 +22,9 @@
 
 ## 📂 Proyectos destacados
 ### Actividades maestria inteligencia analitica de datos
-[![Portafolio Maestría en Analítica de Datos](miadportafolio.jpg)](https://github.com/Walle-Chingg-Uparela/MIAD)  
+<a href="https://github.com/Walle-Chingg-Uparela/MIAD">
+  <img src="miadportafolio.jpg" alt="Portafolio Maestría en Analítica de Datos" width="400"/>
+</a>
 Análisis de datos, dashboards en Power BI y proyectos aplicados.
 
 ---
