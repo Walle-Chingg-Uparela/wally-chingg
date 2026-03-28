@@ -53,9 +53,7 @@
 
 ---
 
-## 🎯 Objetivo profesional
 
-Convertirme en **Machine Learning Engineer**, desarrollando soluciones basadas en datos que generen impacto real en las organizaciones.
 
 
             
