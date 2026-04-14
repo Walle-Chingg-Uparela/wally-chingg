@@ -2,7 +2,7 @@
 
 ![Portada](banner-github.jpg)
 
-🚀 Ingeniero en Mecatrónica enfocado en **Data Analytics y Machine Learning**, apasionado por transformar datos en información útil para la toma de decisiones. / Mechatronic's Engineer focused on **Data Analytics and Machine Learning**, with pasion for transforming data into usefull informations for taking desitions 
+🚀 Ingeniero en Mecatrónica enfocado en **Data Analytics y Machine Learning**, apasionado por transformar datos en información útil para la toma de decisiones. / Mechatronic's Engineer focused on **Data Analytics and Machine Learning**, passionate about transforming data into useful information for decision making.
 ---
 
 ## 🧠 Sobre mí / about me 
