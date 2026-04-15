@@ -5,13 +5,6 @@
 🚀 Ingeniero en Mecatrónica enfocado en **Data Analytics y Machine Learning**, apasionado por transformar datos en información útil para la toma de decisiones. / Mechatronic's Engineer focused on **Data Analytics and Machine Learning**, passionate about transforming data into useful information for decision making.
 ---
 
-## 🧠 Sobre mí / about me 
-
-- 📊 Experiencia en análisis y visualización de datos  / Experience in data analysis and visualization
-- 🤖 Interés en Machine Learning y desarrollo de modelos  / Insterest on machine learning and model development
-- 📈 Enfoque en convertir datos en insights accionables  / Focus on turning data into actionable insights
----
-
 ## 🌐 Conecta conmigo / Conect with me 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Walter_Chingg-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/walterchingg)
