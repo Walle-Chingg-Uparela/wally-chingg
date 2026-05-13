@@ -10,8 +10,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Walter_Chingg-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/walterchingg)
 
 ---
+## 📂Academico 
+### Actividades maestria inteligencia analitica de datos
+<a href="https://github.com/Walle-Chingg-Uparela/MIAD">
+  <img src="miadportafolio.jpg" alt="Portafolio Maestría en Analítica de Datos" width="400"/>
+</a>
 
-## 📂 Proyectos destacados / Featured projects
+## 📂 Modelado y disponibilización en la nube 
 ### Predicción de popularidad de canciones y disponibilización en la nube mediante Render y React
 #### Frontend
 <a href=" https://github.com/Walle-Chingg-Uparela/spotify-frontend">
@@ -24,10 +29,6 @@
 </a>
 
 
-### Actividades maestria inteligencia analitica de datos
-<a href="https://github.com/Walle-Chingg-Uparela/MIAD">
-  <img src="miadportafolio.jpg" alt="Portafolio Maestría en Analítica de Datos" width="400"/>
-</a>
 
 
 ---
