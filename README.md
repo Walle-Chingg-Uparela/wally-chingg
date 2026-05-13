@@ -17,7 +17,7 @@
 </a>
 
 ## 📂 Modelado y disponibilización en la nube 
-### Predicción de popularidad de canciones y disponibilización en la nube mediante Render y React
+### Predicción de popularidad de canciones
 #### Frontend
 <a href=" https://github.com/Walle-Chingg-Uparela/spotify-frontend">
   <img src="Frontend.jpg" width="400"/>
