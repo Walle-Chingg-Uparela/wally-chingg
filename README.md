@@ -14,9 +14,13 @@
 ## 📂 Proyectos destacados / Featured projects
 ### Predicción de popularidad de canciones y disponibilización en la nube mediante Render y React
 #### Frontend
-<a href=" https://github.com/Walle-Chingg-Uparela/spotify-frontend"></a>
+<a href=" https://github.com/Walle-Chingg-Uparela/spotify-frontend">
+  <img src="Frontend.jpg" width="400"/>
+</a>
 #### Backend
-<a href="https://github.com/Walle-Chingg-Uparela/spotifypopularityapi"></a>
+<a href="https://github.com/Walle-Chingg-Uparela/spotifypopularityapi">
+    <img src="Backend.jpg" width="400"/>
+</a>
 
 
 ### Actividades maestria inteligencia analitica de datos
