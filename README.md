@@ -17,6 +17,7 @@
 <a href=" https://github.com/Walle-Chingg-Uparela/spotify-frontend">
   <img src="Frontend.jpg" width="400"/>
 </a>
+
 #### Backend
 <a href="https://github.com/Walle-Chingg-Uparela/spotifypopularityapi">
     <img src="Backend.jpg" width="400"/>
