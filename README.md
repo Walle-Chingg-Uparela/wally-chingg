@@ -13,7 +13,7 @@
 ## 📂Proyectos en BI  y otros (en proceso...)
 
 <a href="https://github.com/Walle-Chingg-Uparela/Mis-proyectos">
-  <img src="https://github.com/Walle-Chingg-Uparela/Mis-proyectos/repositorycard.jpg" width="400"/>
+  <img src="https://github.com/Walle-Chingg-Uparela/Mis-proyectos/blob/main/repositorycard.jpg" width="400"/>
 </a>
 
 ## 📂 Proyectos de Modelado y disponibilización en la nube 
