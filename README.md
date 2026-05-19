@@ -12,6 +12,10 @@
 ---
 ## 📂Proyectos en BI  y otros (en proceso...)
 
+<a href="https://github.com/Walle-Chingg-Uparela/Mis-proyectos">
+  <img src="[repositorycard.png](https://github.com/Walle-Chingg-Uparela/Mis-proyectos)" width="400"/>
+</a>
+
 ## 📂 Proyectos de Modelado y disponibilización en la nube 
 ### Predicción de popularidad de canciones
 #### Frontend
