@@ -13,7 +13,7 @@
 ## 📂Proyectos Personales
 
 <a href="https://github.com/Walle-Chingg-Uparela/Mis-proyectos">
-  <img src="https://github.com/Walle-Chingg-Uparela/Mis-proyectos/blob/main/repositorycard.jpg" width="800"/>
+  <img src="https://github.com/Walle-Chingg-Uparela/Mis-proyectos/blob/main/img/repositorycard.jpg" width="800"/>
 </a>
 
 ## 📂 Proyectos de ML y disponibilización en la nube 
