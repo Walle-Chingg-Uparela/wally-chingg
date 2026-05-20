@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Walter_Chingg-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/walterchingg)
 
 ---
-## 📂Proyectos en BI  y otros (en proceso...)
+## 📂Proyectos Personales
 
 <a href="https://github.com/Walle-Chingg-Uparela/Mis-proyectos">
   <img src="https://github.com/Walle-Chingg-Uparela/Mis-proyectos/blob/main/repositorycard.jpg" width="400"/>
