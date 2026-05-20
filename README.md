@@ -16,7 +16,7 @@
   <img src="https://github.com/Walle-Chingg-Uparela/Mis-proyectos/blob/main/repositorycard.jpg" width="400"/>
 </a>
 
-## 📂 Proyectos de Modelado y disponibilización en la nube 
+## 📂 Proyectos de ML y disponibilización en la nube 
 ### Predicción de popularidad de canciones
 #### Frontend
 <a href=" https://github.com/Walle-Chingg-Uparela/spotify-frontend">
